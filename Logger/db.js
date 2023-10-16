@@ -3,7 +3,7 @@ import {Sequelize} from "sequelize"
 export default new Sequelize(
     "log_users",
     "postgres",
-    "carrynum1",
+    "pass",
     {
         dialect: "postgres",
         host: "localhost",
